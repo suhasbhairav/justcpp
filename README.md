@@ -1,2 +1,2 @@
 # justcpp
-Just C++ programs
+C++ basic programs
